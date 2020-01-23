@@ -1,5 +1,5 @@
-## Profit_population_prediction
-# First Machine Learning Model
+# Profit_population_prediction
+## First Machine Learning Model
 You will have to download both the profit_population_model.m and the predict.m script.  
 Predict the profit based on only one feature, population. The function predict accepts four values, namely the training feature, training results, step value( alpha) and number of iterations you want it to run.
 For example data prediction I have uploaded the data, where the 1st column is the training feature and 2nd column is the training results. 
